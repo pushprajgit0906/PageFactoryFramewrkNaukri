@@ -1,0 +1,191 @@
+<html>
+<head>
+<title>TestNG:  SanityTest</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>SanityTest</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>5/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Jul 28 11:28:17 IST 2020</td>
+</tr>
+<tr><td>Total time:</td><td>42 seconds (42336 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.pagefactory.framework.naukari.TC03_Profile.LoginwithValidCredential()'><b>LoginwithValidCredential</b><br>Test class: com.pagefactory.framework.naukari.TC03_Profile<br/>
+<a href="#Output-1317160478" onClick='toggleBox("Output-1317160478", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1317160478" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1317160478">
+Test Started: LoginwithValidCredential<br/>
+---------------------Login inot application with valid credential --------------<br/>
+Trying to find element By:By.xpath: //input[@id='usernameField']<br/>
+Found element By:By.xpath: //input[@id='usernameField']<br/>
+Value of the WebElement [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='usernameField']] before any changes<br/>
+Value changed to [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='usernameField']]<br/>
+Trying to find element By:By.xpath: //input[@id='usernameField']<br/>
+Found element By:By.xpath: //input[@id='usernameField']<br/>
+Entered email address pushpraj0906@gmail.com and object is:[[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='usernameField']]<br/>
+Trying to find element By:By.xpath: //input[@id='passwordField']<br/>
+Found element By:By.xpath: //input[@id='passwordField']<br/>
+Value of the WebElement [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='passwordField']] before any changes<br/>
+Value changed to [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='passwordField']]<br/>
+Trying to find element By:By.xpath: //input[@id='passwordField']<br/>
+Found element By:By.xpath: //input[@id='passwordField']<br/>
+Entered email address HariOm@2020 and object is:[[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='passwordField']]<br/>
+Trying to find element By:By.xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']<br/>
+Found element By:By.xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']<br/>
+Clicked On: [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']]<br/>
+Trying to find element By:By.xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']<br/>
+Found element By:By.xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']<br/>
+Clicked on Submit button and object is:[[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']]<br/>
+Test Successful: LoginwithValidCredential<br/>
+<a href='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_LoginwithValidCredential_28_07_2020_11_28_32.png'><img src='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_LoginwithValidCredential_28_07_2020_11_28_32.png' height='100' width='100'/> </a<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.pagefactory.framework.naukari.TC03_Profile@80503</td></tr>
+<tr>
+<td title='com.pagefactory.framework.naukari.TC03_Profile.ProfilePage()'><b>ProfilePage</b><br>Test class: com.pagefactory.framework.naukari.TC03_Profile<br/>
+<a href="#Output-986454862" onClick='toggleBox("Output-986454862", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-986454862" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-986454862">
+Test Started: ProfilePage<br/>
+Trying to find element By:By.xpath: //div[@class='profile-section-wrapper']//div//a//div//img[@class='circle nk-userdp']<br/>
+Found element By:By.xpath: //div[@class='profile-section-wrapper']//div//a//div//img[@class='circle nk-userdp']<br/>
+Clicked On: [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //div[@class='profile-section-wrapper']//div//a//div//img[@class='circle nk-userdp']]<br/>
+--------------Navigated to Profile Page-----------------<br/>
+Test Successful: ProfilePage<br/>
+<a href='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_ProfilePage_28_07_2020_11_28_33.png'><img src='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_ProfilePage_28_07_2020_11_28_33.png' height='100' width='100'/> </a<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.pagefactory.framework.naukari.TC03_Profile@80503</td></tr>
+<tr>
+<td title='com.pagefactory.framework.naukari.TC03_Profile.deleteResumefromProfile()'><b>deleteResumefromProfile</b><br>Test class: com.pagefactory.framework.naukari.TC03_Profile<br/>
+<a href="#Output-1588028709" onClick='toggleBox("Output-1588028709", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1588028709" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1588028709">
+Test Started: deleteResumefromProfile<br/>
+---------------------Delete Resume --------------<br/>
+Trying to find element By:By.xpath: //a[contains(text(),'DELETE RESUME')]<br/>
+Found element By:By.xpath: //a[contains(text(),'DELETE RESUME')]<br/>
+Clicked On: [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //a[contains(text(),'DELETE RESUME')]]<br/>
+Trying to find element By:By.xpath: //p[text()='Are you sure you want to delete the Resume?']/following-sibling::div//button[text()='DELETE']<br/>
+Found element By:By.xpath: //p[text()='Are you sure you want to delete the Resume?']/following-sibling::div//button[text()='DELETE']<br/>
+Clicked On: [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //p[text()='Are you sure you want to delete the Resume?']/following-sibling::div//button[text()='DELETE']]<br/>
+Trying to find element By:By.xpath: //p[contains(text(),'Attached Resume has been successfully deleted.')]<br/>
+Found element By:By.xpath: //p[contains(text(),'Attached Resume has been successfully deleted.')]<br/>
+---------------------Resume Deleted Successfully --------------<br/>
+Test Successful: deleteResumefromProfile<br/>
+<a href='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_deleteResumefromProfile_28_07_2020_11_28_48.png'><img src='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_deleteResumefromProfile_28_07_2020_11_28_48.png' height='100' width='100'/> </a<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>com.pagefactory.framework.naukari.TC03_Profile@80503</td></tr>
+<tr>
+<td title='com.pagefactory.framework.naukari.TC03_Profile.uploadResumeToProfile()'><b>uploadResumeToProfile</b><br>Test class: com.pagefactory.framework.naukari.TC03_Profile<br/>
+<a href="#Output-504847893" onClick='toggleBox("Output-504847893", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-504847893" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-504847893">
+Test Started: uploadResumeToProfile<br/>
+---------------------Upload Resume --------------<br/>
+Trying to find element By:By.xpath: //input[@id='attachCV']<br/>
+Found element By:By.xpath: //input[@id='attachCV']<br/>
+Value of the WebElement [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='attachCV']] before any changes<br/>
+Value changed to [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='attachCV']]<br/>
+Test Successful: uploadResumeToProfile<br/>
+<a href='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_uploadResumeToProfile_28_07_2020_11_28_58.png'><img src='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_uploadResumeToProfile_28_07_2020_11_28_58.png' height='100' width='100'/> </a<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>com.pagefactory.framework.naukari.TC03_Profile@80503</td></tr>
+<tr>
+<td title='com.pagefactory.framework.naukari.TC03_Profile.verifyProfilePageTitleTest()'><b>verifyProfilePageTitleTest</b><br>Test class: com.pagefactory.framework.naukari.TC03_Profile<br/>
+<a href="#Output-1977860561" onClick='toggleBox("Output-1977860561", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1977860561" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1977860561">
+Test Started: verifyProfilePageTitleTest<br/>
+--------------Verify profile Page title-----------------<br/>
+-----Profile page title displayed successfully with title Profile | Mynaukri<br/>
+Test Successful: verifyProfilePageTitleTest<br/>
+<a href='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_verifyProfilePageTitleTest_28_07_2020_11_28_38.png'><img src='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_verifyProfilePageTitleTest_28_07_2020_11_28_38.png' height='100' width='100'/> </a<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.pagefactory.framework.naukari.TC03_Profile@80503</td></tr>
+</table><p>
+</body>
+</html>

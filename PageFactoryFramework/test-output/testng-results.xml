@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[#############################################################################################################################]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the URL:https://www.naukri.com/nlogin/login]]>
+    </line>
+    <line>
+      <![CDATA[Navitage to :https://www.naukri.com/nlogin/login]]>
+    </line>
+    <line>
+      <![CDATA[After Navitage to :https://www.naukri.com/nlogin/login]]>
+    </line>
+    <line>
+      <![CDATA[Test Started: LoginwithValidCredential]]>
+    </line>
+    <line>
+      <![CDATA[---------------------Login inot application with valid credential --------------]]>
+    </line>
+    <line>
+      <![CDATA[Trying to find element By:By.xpath: //input[@id='usernameField']]]>
+    </line>
+    <line>
+      <![CDATA[Found element By:By.xpath: //input[@id='usernameField']]]>
+    </line>
+    <line>
+      <![CDATA[Value of the WebElement [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='usernameField']] before any changes]]>
+    </line>
+    <line>
+      <![CDATA[Value changed to [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='usernameField']]]]>
+    </line>
+    <line>
+      <![CDATA[Trying to find element By:By.xpath: //input[@id='usernameField']]]>
+    </line>
+    <line>
+      <![CDATA[Found element By:By.xpath: //input[@id='usernameField']]]>
+    </line>
+    <line>
+      <![CDATA[Entered email address pushpraj0906@gmail.com and object is:[[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='usernameField']]]]>
+    </line>
+    <line>
+      <![CDATA[Trying to find element By:By.xpath: //input[@id='passwordField']]]>
+    </line>
+    <line>
+      <![CDATA[Found element By:By.xpath: //input[@id='passwordField']]]>
+    </line>
+    <line>
+      <![CDATA[Value of the WebElement [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='passwordField']] before any changes]]>
+    </line>
+    <line>
+      <![CDATA[Value changed to [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='passwordField']]]]>
+    </line>
+    <line>
+      <![CDATA[Trying to find element By:By.xpath: //input[@id='passwordField']]]>
+    </line>
+    <line>
+      <![CDATA[Found element By:By.xpath: //input[@id='passwordField']]]>
+    </line>
+    <line>
+      <![CDATA[Entered email address HariOm@2020 and object is:[[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='passwordField']]]]>
+    </line>
+    <line>
+      <![CDATA[Trying to find element By:By.xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']]]>
+    </line>
+    <line>
+      <![CDATA[Found element By:By.xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On: [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']]]]>
+    </line>
+    <line>
+      <![CDATA[Trying to find element By:By.xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']]]>
+    </line>
+    <line>
+      <![CDATA[Found element By:By.xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Submit button and object is:[[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']]]]>
+    </line>
+    <line>
+      <![CDATA[Test Successful: LoginwithValidCredential]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_LoginwithValidCredential_28_07_2020_11_28_32.png'><img src='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_LoginwithValidCredential_28_07_2020_11_28_32.png' height='100' width='100'/> </a]]>
+    </line>
+    <line>
+      <![CDATA[Test Started: ProfilePage]]>
+    </line>
+    <line>
+      <![CDATA[Trying to find element By:By.xpath: //div[@class='profile-section-wrapper']//div//a//div//img[@class='circle nk-userdp']]]>
+    </line>
+    <line>
+      <![CDATA[Found element By:By.xpath: //div[@class='profile-section-wrapper']//div//a//div//img[@class='circle nk-userdp']]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On: [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //div[@class='profile-section-wrapper']//div//a//div//img[@class='circle nk-userdp']]]]>
+    </line>
+    <line>
+      <![CDATA[--------------Navigated to Profile Page-----------------]]>
+    </line>
+    <line>
+      <![CDATA[Test Successful: ProfilePage]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_ProfilePage_28_07_2020_11_28_33.png'><img src='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_ProfilePage_28_07_2020_11_28_33.png' height='100' width='100'/> </a]]>
+    </line>
+    <line>
+      <![CDATA[Test Started: verifyProfilePageTitleTest]]>
+    </line>
+    <line>
+      <![CDATA[--------------Verify profile Page title-----------------]]>
+    </line>
+    <line>
+      <![CDATA[-----Profile page title displayed successfully with title Profile | Mynaukri]]>
+    </line>
+    <line>
+      <![CDATA[Test Successful: verifyProfilePageTitleTest]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_verifyProfilePageTitleTest_28_07_2020_11_28_38.png'><img src='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_verifyProfilePageTitleTest_28_07_2020_11_28_38.png' height='100' width='100'/> </a]]>
+    </line>
+    <line>
+      <![CDATA[Test Started: deleteResumefromProfile]]>
+    </line>
+    <line>
+      <![CDATA[---------------------Delete Resume --------------]]>
+    </line>
+    <line>
+      <![CDATA[Trying to find element By:By.xpath: //a[contains(text(),'DELETE RESUME')]]]>
+    </line>
+    <line>
+      <![CDATA[Found element By:By.xpath: //a[contains(text(),'DELETE RESUME')]]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On: [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //a[contains(text(),'DELETE RESUME')]]]]>
+    </line>
+    <line>
+      <![CDATA[Trying to find element By:By.xpath: //p[text()='Are you sure you want to delete the Resume?']/following-sibling::div//button[text()='DELETE']]]>
+    </line>
+    <line>
+      <![CDATA[Found element By:By.xpath: //p[text()='Are you sure you want to delete the Resume?']/following-sibling::div//button[text()='DELETE']]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On: [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //p[text()='Are you sure you want to delete the Resume?']/following-sibling::div//button[text()='DELETE']]]]>
+    </line>
+    <line>
+      <![CDATA[Trying to find element By:By.xpath: //p[contains(text(),'Attached Resume has been successfully deleted.')]]]>
+    </line>
+    <line>
+      <![CDATA[Found element By:By.xpath: //p[contains(text(),'Attached Resume has been successfully deleted.')]]]>
+    </line>
+    <line>
+      <![CDATA[---------------------Resume Deleted Successfully --------------]]>
+    </line>
+    <line>
+      <![CDATA[Test Successful: deleteResumefromProfile]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_deleteResumefromProfile_28_07_2020_11_28_48.png'><img src='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_deleteResumefromProfile_28_07_2020_11_28_48.png' height='100' width='100'/> </a]]>
+    </line>
+    <line>
+      <![CDATA[Test Started: uploadResumeToProfile]]>
+    </line>
+    <line>
+      <![CDATA[---------------------Upload Resume --------------]]>
+    </line>
+    <line>
+      <![CDATA[Trying to find element By:By.xpath: //input[@id='attachCV']]]>
+    </line>
+    <line>
+      <![CDATA[Found element By:By.xpath: //input[@id='attachCV']]]>
+    </line>
+    <line>
+      <![CDATA[Value of the WebElement [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='attachCV']] before any changes]]>
+    </line>
+    <line>
+      <![CDATA[Value changed to [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='attachCV']]]]>
+    </line>
+    <line>
+      <![CDATA[Test Successful: uploadResumeToProfile]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_uploadResumeToProfile_28_07_2020_11_28_58.png'><img src='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_uploadResumeToProfile_28_07_2020_11_28_58.png' height='100' width='100'/> </a]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+  </reporter-output>
+  <suite name="RegressionSuite" duration-ms="42336" started-at="2020-07-28T05:58:17Z" finished-at="2020-07-28T05:58:59Z">
+    <groups>
+    </groups>
+    <test name="SanityTest" duration-ms="42336" started-at="2020-07-28T05:58:17Z" finished-at="2020-07-28T05:58:59Z">
+      <class name="com.pagefactory.framework.naukari.TC03_Profile">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="setup" is-config="true" duration-ms="9045" started-at="2020-07-28T11:28:17Z" finished-at="2020-07-28T11:28:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[#############################################################################################################################]]>
+            </line>
+            <line>
+              <![CDATA[Creating the object of chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the URL:https://www.naukri.com/nlogin/login]]>
+            </line>
+            <line>
+              <![CDATA[Navitage to :https://www.naukri.com/nlogin/login]]>
+            </line>
+            <line>
+              <![CDATA[After Navitage to :https://www.naukri.com/nlogin/login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="beforeMethod" is-config="true" duration-ms="7" started-at="2020-07-28T11:28:26Z" finished-at="2020-07-28T11:28:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pagefactory.framework.naukari.TC03_Profile.LoginwithValidCredential()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginwithValidCredential()[pri:1, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="LoginwithValidCredential" duration-ms="5772" started-at="2020-07-28T11:28:26Z" finished-at="2020-07-28T11:28:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started: LoginwithValidCredential]]>
+            </line>
+            <line>
+              <![CDATA[---------------------Login inot application with valid credential --------------]]>
+            </line>
+            <line>
+              <![CDATA[Trying to find element By:By.xpath: //input[@id='usernameField']]]>
+            </line>
+            <line>
+              <![CDATA[Found element By:By.xpath: //input[@id='usernameField']]]>
+            </line>
+            <line>
+              <![CDATA[Value of the WebElement [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='usernameField']] before any changes]]>
+            </line>
+            <line>
+              <![CDATA[Value changed to [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='usernameField']]]]>
+            </line>
+            <line>
+              <![CDATA[Trying to find element By:By.xpath: //input[@id='usernameField']]]>
+            </line>
+            <line>
+              <![CDATA[Found element By:By.xpath: //input[@id='usernameField']]]>
+            </line>
+            <line>
+              <![CDATA[Entered email address pushpraj0906@gmail.com and object is:[[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='usernameField']]]]>
+            </line>
+            <line>
+              <![CDATA[Trying to find element By:By.xpath: //input[@id='passwordField']]]>
+            </line>
+            <line>
+              <![CDATA[Found element By:By.xpath: //input[@id='passwordField']]]>
+            </line>
+            <line>
+              <![CDATA[Value of the WebElement [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='passwordField']] before any changes]]>
+            </line>
+            <line>
+              <![CDATA[Value changed to [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='passwordField']]]]>
+            </line>
+            <line>
+              <![CDATA[Trying to find element By:By.xpath: //input[@id='passwordField']]]>
+            </line>
+            <line>
+              <![CDATA[Found element By:By.xpath: //input[@id='passwordField']]]>
+            </line>
+            <line>
+              <![CDATA[Entered email address HariOm@2020 and object is:[[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='passwordField']]]]>
+            </line>
+            <line>
+              <![CDATA[Trying to find element By:By.xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']]]>
+            </line>
+            <line>
+              <![CDATA[Found element By:By.xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On: [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']]]]>
+            </line>
+            <line>
+              <![CDATA[Trying to find element By:By.xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']]]>
+            </line>
+            <line>
+              <![CDATA[Found element By:By.xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Submit button and object is:[[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //button[@class='waves-effect waves-light btn-large btn-block btn-bold blue-btn textTransform']]]]>
+            </line>
+            <line>
+              <![CDATA[Test Successful: LoginwithValidCredential]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_LoginwithValidCredential_28_07_2020_11_28_32.png'><img src='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_LoginwithValidCredential_28_07_2020_11_28_32.png' height='100' width='100'/> </a]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginwithValidCredential -->
+        <test-method status="PASS" signature="ProfilePage()[pri:2, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="ProfilePage" duration-ms="217" started-at="2020-07-28T11:28:33Z" finished-at="2020-07-28T11:28:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started: ProfilePage]]>
+            </line>
+            <line>
+              <![CDATA[Trying to find element By:By.xpath: //div[@class='profile-section-wrapper']//div//a//div//img[@class='circle nk-userdp']]]>
+            </line>
+            <line>
+              <![CDATA[Found element By:By.xpath: //div[@class='profile-section-wrapper']//div//a//div//img[@class='circle nk-userdp']]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On: [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //div[@class='profile-section-wrapper']//div//a//div//img[@class='circle nk-userdp']]]]>
+            </line>
+            <line>
+              <![CDATA[--------------Navigated to Profile Page-----------------]]>
+            </line>
+            <line>
+              <![CDATA[Test Successful: ProfilePage]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_ProfilePage_28_07_2020_11_28_33.png'><img src='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_ProfilePage_28_07_2020_11_28_33.png' height='100' width='100'/> </a]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ProfilePage -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-07-28T11:28:33Z" finished-at="2020-07-28T11:28:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginwithValidCredential status=SUCCESS method=TC03_Profile.LoginwithValidCredential()[pri:1, instance:com.pagefactory.framework.naukari.TC03_Profile@80503] output=Test Started: LoginwithValidCredential]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-07-28T11:28:33Z" finished-at="2020-07-28T11:28:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pagefactory.framework.naukari.TC03_Profile.ProfilePage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-07-28T11:28:33Z" finished-at="2020-07-28T11:28:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ProfilePage status=SUCCESS method=TC03_Profile.ProfilePage()[pri:2, instance:com.pagefactory.framework.naukari.TC03_Profile@80503] output=Test Started: ProfilePage]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-07-28T11:28:33Z" finished-at="2020-07-28T11:28:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pagefactory.framework.naukari.TC03_Profile.verifyProfilePageTitleTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyProfilePageTitleTest()[pri:3, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="verifyProfilePageTitleTest" duration-ms="5016" started-at="2020-07-28T11:28:33Z" finished-at="2020-07-28T11:28:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started: verifyProfilePageTitleTest]]>
+            </line>
+            <line>
+              <![CDATA[--------------Verify profile Page title-----------------]]>
+            </line>
+            <line>
+              <![CDATA[-----Profile page title displayed successfully with title Profile | Mynaukri]]>
+            </line>
+            <line>
+              <![CDATA[Test Successful: verifyProfilePageTitleTest]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_verifyProfilePageTitleTest_28_07_2020_11_28_38.png'><img src='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_verifyProfilePageTitleTest_28_07_2020_11_28_38.png' height='100' width='100'/> </a]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProfilePageTitleTest -->
+        <test-method status="PASS" signature="deleteResumefromProfile()[pri:4, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="deleteResumefromProfile" duration-ms="9480" started-at="2020-07-28T11:28:39Z" finished-at="2020-07-28T11:28:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started: deleteResumefromProfile]]>
+            </line>
+            <line>
+              <![CDATA[---------------------Delete Resume --------------]]>
+            </line>
+            <line>
+              <![CDATA[Trying to find element By:By.xpath: //a[contains(text(),'DELETE RESUME')]]]>
+            </line>
+            <line>
+              <![CDATA[Found element By:By.xpath: //a[contains(text(),'DELETE RESUME')]]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On: [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //a[contains(text(),'DELETE RESUME')]]]]>
+            </line>
+            <line>
+              <![CDATA[Trying to find element By:By.xpath: //p[text()='Are you sure you want to delete the Resume?']/following-sibling::div//button[text()='DELETE']]]>
+            </line>
+            <line>
+              <![CDATA[Found element By:By.xpath: //p[text()='Are you sure you want to delete the Resume?']/following-sibling::div//button[text()='DELETE']]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On: [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //p[text()='Are you sure you want to delete the Resume?']/following-sibling::div//button[text()='DELETE']]]]>
+            </line>
+            <line>
+              <![CDATA[Trying to find element By:By.xpath: //p[contains(text(),'Attached Resume has been successfully deleted.')]]]>
+            </line>
+            <line>
+              <![CDATA[Found element By:By.xpath: //p[contains(text(),'Attached Resume has been successfully deleted.')]]]>
+            </line>
+            <line>
+              <![CDATA[---------------------Resume Deleted Successfully --------------]]>
+            </line>
+            <line>
+              <![CDATA[Test Successful: deleteResumefromProfile]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_deleteResumefromProfile_28_07_2020_11_28_48.png'><img src='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_deleteResumefromProfile_28_07_2020_11_28_48.png' height='100' width='100'/> </a]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- deleteResumefromProfile -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-07-28T11:28:39Z" finished-at="2020-07-28T11:28:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pagefactory.framework.naukari.TC03_Profile.deleteResumefromProfile() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-07-28T11:28:39Z" finished-at="2020-07-28T11:28:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyProfilePageTitleTest status=SUCCESS method=TC03_Profile.verifyProfilePageTitleTest()[pri:3, instance:com.pagefactory.framework.naukari.TC03_Profile@80503] output=Test Started: verifyProfilePageTitleTest]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="uploadResumeToProfile()[pri:5, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="uploadResumeToProfile" duration-ms="9091" started-at="2020-07-28T11:28:49Z" finished-at="2020-07-28T11:28:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started: uploadResumeToProfile]]>
+            </line>
+            <line>
+              <![CDATA[---------------------Upload Resume --------------]]>
+            </line>
+            <line>
+              <![CDATA[Trying to find element By:By.xpath: //input[@id='attachCV']]]>
+            </line>
+            <line>
+              <![CDATA[Found element By:By.xpath: //input[@id='attachCV']]]>
+            </line>
+            <line>
+              <![CDATA[Value of the WebElement [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='attachCV']] before any changes]]>
+            </line>
+            <line>
+              <![CDATA[Value changed to [[ChromeDriver: chrome on WINDOWS (9abb92d1abfa721de449fd8e262482a1)] -> xpath: //input[@id='attachCV']]]]>
+            </line>
+            <line>
+              <![CDATA[Test Successful: uploadResumeToProfile]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_uploadResumeToProfile_28_07_2020_11_28_58.png'><img src='D:\Nikhar and Venkat FW\POM_FW_from_GIT\SeleniumPageFactoryFramework\PageFactoryFramework\src\main\java\com\pagefactory\framework\success_screencaptureSuccess_ScreenCaptures_uploadResumeToProfile_28_07_2020_11_28_58.png' height='100' width='100'/> </a]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- uploadResumeToProfile -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-07-28T11:28:49Z" finished-at="2020-07-28T11:28:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deleteResumefromProfile status=SUCCESS method=TC03_Profile.deleteResumefromProfile()[pri:4, instance:com.pagefactory.framework.naukari.TC03_Profile@80503] output=Test Started: deleteResumefromProfile]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-07-28T11:28:49Z" finished-at="2020-07-28T11:28:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pagefactory.framework.naukari.TC03_Profile.uploadResumeToProfile() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-07-28T11:28:58Z" finished-at="2020-07-28T11:28:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=uploadResumeToProfile status=SUCCESS method=TC03_Profile.uploadResumeToProfile()[pri:5, instance:com.pagefactory.framework.naukari.TC03_Profile@80503] output=Test Started: uploadResumeToProfile]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="tearDown" is-config="true" duration-ms="749" started-at="2020-07-28T11:28:58Z" finished-at="2020-07-28T11:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.pagefactory.framework.naukari.TC03_Profile@80503]" name="endTest" is-config="true" duration-ms="319" started-at="2020-07-28T11:28:59Z" finished-at="2020-07-28T11:28:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.pagefactory.framework.naukari.TC03_Profile -->
+    </test> <!-- SanityTest -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>

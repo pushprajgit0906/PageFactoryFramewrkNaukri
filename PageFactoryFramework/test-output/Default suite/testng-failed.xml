@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.pagefactory.framework.naukari.TC03_Profile">
+        <methods>
+          <include name="endTest"/>
+          <include name="tearDown"/>
+          <include name="ProfilePage"/>
+          <include name="deleteResumefromProfile"/>
+          <include name="afterMethod"/>
+          <include name="uploadResumeToProfile"/>
+          <include name="beforeMethod"/>
+          <include name="setup"/>
+          <include name="verifyProfilePageTitleTest"/>
+        </methods>
+      </class> <!-- com.pagefactory.framework.naukari.TC03_Profile -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
